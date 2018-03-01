@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="delivery-core.delivery-core-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../delivery-core/build/libs/delivery-core-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

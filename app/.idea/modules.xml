@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../KenticoCloudDeliveryJavaRxSDK-master.iml" filepath="$PROJECT_DIR$/../KenticoCloudDeliveryJavaRxSDK-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delivery-android/delivery-android.iml" filepath="$PROJECT_DIR$/../delivery-android/delivery-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delivery-core/delivery-core.iml" filepath="$PROJECT_DIR$/../delivery-core/delivery-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delivery-rx/delivery-rx.iml" filepath="$PROJECT_DIR$/../delivery-rx/delivery-rx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delivery-tests/delivery-tests.iml" filepath="$PROJECT_DIR$/../delivery-tests/delivery-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-android-app.iml" filepath="$PROJECT_DIR$/sample-android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample-java-app/sample-java-app.iml" filepath="$PROJECT_DIR$/../sample-java-app/sample-java-app.iml" />
+    </modules>
+  </component>
+</project>
